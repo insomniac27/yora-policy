@@ -21,13 +21,13 @@ const PrivacyPolicy = () => {
       title: "3. How do you get in touch with the Grievance Officer of Yora in India?",
       content: (
         <div className="space-y-2">
-          <p>Please email at: support@Yoraa.in</p>
+          <p>Please email at: contact@yoraa.in</p>
           <p>Registered Office: WeWork DLF Forum, Cybercity, Phase III, Gurugram, Haryana 122002</p>
           <p>Grievance Officer:</p>
           <p>Name: Rithik Mahajan</p>
           <p>Designation: Digital Brand Commerce Director</p>
           <p>Address: WeWork DLF Forum, Cybercity, Phase III, Gurugram, Haryana 122002</p>
-          <p>Email: support@Yoraa.in</p>
+          <p>Email: contact@yoraa.in</p>
         </div>
       )
     },
@@ -115,7 +115,7 @@ const PrivacyPolicy = () => {
           <p>Name: Rithik Mahajan</p>
           <p>Designation: Digital Brand Commerce Director</p>
           <p>Address: WeWork DLF Forum, Cybercity, Phase III, Gurugram, Haryana 122002</p>
-          <p>Email: <Link to="mailto:support@Yoraa.in">support@Yoraa.in</Link></p>
+          <p>Email: <Link to="mailto:contact@yoraa.in">contact@yoraa.in</Link></p>
         </div>
       )
     },
